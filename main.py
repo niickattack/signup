@@ -5,7 +5,7 @@ form = """
  <form method = "post">
 
  <head>
-    <title>Sign Up</title>
+    <title>Sign Up!</title>
     <style type="text/css">
       .label {text-align: right}
       .error {color: red}
